@@ -1,0 +1,28 @@
+{
+  "name": "@axel669/include",
+  "version": "1.0.0",
+  "description": "small library for making larger node codebases a little easier to include files in",
+  "main": "include.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axel669/include.git"
+  },
+  "keywords": [
+    "node",
+    "require",
+    "include"
+  ],
+  "author": "Axel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axel669/include/issues"
+  },
+  "homepage": "https://github.com/axel669/include#readme",
+  "files": [
+    "include.js",
+    "LICENCE"
+  ]
+}
